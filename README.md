@@ -8,6 +8,8 @@ Here is the (finished) game in action:
 
 ![animation of game](eorhythm.gif)
 
+It's less laggy in real life than in the gif, of course.
+
 The songs from the gif are:
 * Molten Caves from Etrian Odyssey III: https://www.youtube.com/watch?v=daSblMlpi3c
 * Calling that Detestable Name from Etrian Odyssey III: https://www.youtube.com/watch?v=U_0TeykT5NA
