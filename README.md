@@ -11,3 +11,5 @@ Here is the (finished) game in action:
 The songs from the gif are:
 * Molten Caves from Etrian Odyssey III: https://www.youtube.com/watch?v=daSblMlpi3c
 * Calling that Detestable Name from Etrian Odyssey III: https://www.youtube.com/watch?v=U_0TeykT5NA
+
+Funnily enough, at the time that I create this game (and named the tracks in the menus), there was no official translation of the Japanese names for the tracks, which is why they are slightly off (Caverns of Splendor instead of Molten Caves for instance). 
