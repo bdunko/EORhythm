@@ -10,6 +10,8 @@ Here is the (finished) game in action:
 
 ![animation of game](eorhythm.gif)
 
+Notes come from right to left and the player must time their keypresses to match when the notes reach the circular crosshairs. Any key may be used for red notes. Yellow notes (arrows) require the corresponding arrow key.
+
 It's less laggy in real life than in the gif, of course.
 
 The songs from the gif are:
